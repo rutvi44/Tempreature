@@ -1,0 +1,8 @@
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
