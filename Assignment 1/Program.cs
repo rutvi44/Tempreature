@@ -17,9 +17,9 @@ namespace Assignment_1
             double y = 0.5556;
 
             //Display text
-            Console.WriteLine("Assignmnet 1 Part 2");
+            Console.WriteLine("Exercise");
             Console.WriteLine("Name: Rutvi Mistry");
-            Console.WriteLine("Email: rmistry9104@conestogac.on.ca");
+            Console.WriteLine("Email: xx@xx.xxx");
             Console.WriteLine("I have some programming experience");
 
             //Get input
